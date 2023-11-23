@@ -1,4 +1,4 @@
-# Kata 2 #
+# Kata 3 #
 This project consists of a histogram viewer using the JFreeChart library.
 ## Classes: ##
 - MainFrame --> Allows the histogram viewer to be configured.
